@@ -1,0 +1,1 @@
+print("we r pakistani's always and forever")
